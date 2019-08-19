@@ -1,4 +1,4 @@
-# html-validate-test
+# html-fields-validation
 Simple HTML field validation by using only HTML's data attributes.
 
 
