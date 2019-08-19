@@ -1,0 +1,17 @@
+<!-- 
+
+This is normal field validation which won't work in our requirement
+
+ -->
+<html>
+<body>
+<form>
+  <label for="fruit">Fruit</label>
+  <input id="fruit" name="fruit" required pattern="banana|cherry"><br/>
+  <label for="digit">Digit</label>
+  <input id="digit" name="digit" required pattern="^\d*$">
+  <button type="button" onclick="console.log('saved')">Save</button>
+  <!-- <button>Save</button> -->
+</form>
+</body>
+<html>
