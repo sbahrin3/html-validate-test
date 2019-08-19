@@ -2,6 +2,9 @@
 Simple HTML field validation by using only HTML's data attributes.
 
 
+![Example](https://github.com/sbahrin3/html-validate-test/blob/master/field-validation480.gif)
+
+
 There are 3 data attributes to be used, if left any, they will just be ignored.
 
 1) data-required
@@ -46,8 +49,5 @@ data-msg="Please enter number!"
 type="text" placeholder="Enter Name.">
 
 ```
-
-
-![Example](https://github.com/sbahrin3/html-validate-test/blob/master/field-validation480.gif)
 
 
