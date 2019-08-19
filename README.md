@@ -15,7 +15,7 @@ Use data attribute as follows:
 
 To mark the field as requred: data-required="true"
 
-To mark the field as must follow certain pattern: data-pattern="<use regex pattern here>"
+To mark the field as must follow certain pattern: data-pattern="use regex pattern here"
 
 Example: If the data must be all digits: data-pattern="^[0-9]*$"
 
