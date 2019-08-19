@@ -48,5 +48,6 @@ type="text" placeholder="Enter Name.">
 ```
 
 
+![Example](https://github.com/sbahrin3/html-validate-test/blob/master/field-validation480.gif)
 
 
