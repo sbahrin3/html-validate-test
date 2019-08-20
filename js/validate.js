@@ -34,7 +34,6 @@ function validateData() {
 	}
 	
 	if ( is_validated ) {
-		//you may submit data here
 		$.jGrowl("Fields validation are all clear!", { position:'top-right', theme:'notify' });
 		
 	} else {
@@ -42,5 +41,7 @@ function validateData() {
 			$.jGrowl(msg, { position:'top-right', theme:'warning' });
 		});
 	}
+	
+	return is_validated;
 	
 }
