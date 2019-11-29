@@ -49,5 +49,10 @@ data-msg="Please enter number!"
 type="text" placeholder="Enter Name.">
 
 ```
+```
+<input data-required="true" data-pattern="^[+-]?((\d+(\.\d*)?)|(\.\d+))$"
+data-msg="Please enter decimal number!" 
+type="text" placeholder="Enter Name.">
 
+```
 
